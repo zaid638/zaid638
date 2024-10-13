@@ -1,7 +1,7 @@
 # 👋 Hi I'm Zaid Ahamed
 <br />
 
-I'm a Computer Engineering student and Data Enthusiast who thrives to learn new things and solve problems.
+I'm a Computer Engineering student with Expertise in Python and Data Enthusiast who thrives to learn new things and solve problems.
 <br />
 
 <!--
