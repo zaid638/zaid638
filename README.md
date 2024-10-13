@@ -1,9 +1,20 @@
-## Hi there 👋
+# 👋 Hi I'm Zaid Ahamed
+<br />
+
+I'm a Computer Engineering student and Data Enthusiast who thrives to learn new things and solve problems.
+<br />
 
 <!--
-**zaid638/zaid638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Skills
 
-Here are some ideas to get you started:
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks:** Pandas, NumPy, Matplotlib
+- **Tools:** MySQL, Tableau, Power BI, Linux
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
