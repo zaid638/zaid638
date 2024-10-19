@@ -36,8 +36,20 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 <br /><br />
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🛠 Projects
+<br />
+
+- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
+<br />
+
+- **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**: A web application designed to manage and streamline tourism activities efficiently.
+<br />
+
+- **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**: A simple online banking system created using Python Object Oriented Programming concept.
+<br />
+
+- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.
+<br /><br />
 
 
 <!--
