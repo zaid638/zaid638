@@ -36,29 +36,55 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 <br /><br />
 
 
-### 🛠 Projects
+## 🛠 Projects
 <br />
 
-- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
+# Python Development
 <br />
 
 - **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**: A web application designed to manage and streamline tourism activities efficiently.
 <br />
 
 - **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**: A simple online banking system created using Python Object Oriented Programming concept.
+<br /><br />
+
+
+# Data Related Projects
+<br />
+
+- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
 <br />
 
 - **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.
 <br /><br />
 
+- **[Other Projets](https://github.com/zaid638?tab=repositories)**
+<br /><br />
+
+
+
+## 🌐 Connect with Me
+<br />
+
+[LinkedIn](https://www.linkedin.com/in/zaidahamed055)
+<br />
+
+[Email](mailto:zaidahamed638@gmail.com)
+<br /><br />
+
+
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I’m currently working on data related Projects.
+<br />
+
+- 🌱 I’m currently learning Data Engineering Concepts.
+<br />
+
+- 👯 I’m looking to collaborate on data related projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
