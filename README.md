@@ -4,7 +4,6 @@
 I'm a Computer Engineering student with Expertise in Python and Data Enthusiast who thrives to learn new things and solve problems.
 <br /><br />
 
-
 ## 💻 Technical Skills
 <br />
 
@@ -24,8 +23,6 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
   
 <br /><br />
 
-
-
 ## 💻 Soft Skills 
 <br />
 
@@ -34,7 +31,6 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 * Communication
 * Problem Solving 
 <br /><br />
-
 
 ## 🛠 Projects
 <br />
@@ -61,11 +57,8 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 - **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**: A simple online banking system created using Python Object Oriented Programming concept.
 <br /><br /><br />
 
-
 - **[Other Projets](https://github.com/zaid638?tab=repositories)**
 <br /><br /><br /><br />
-
-
 
 ## 🌐 Connect with Me
 <br />
