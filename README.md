@@ -39,7 +39,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ## 🛠 Projects
 <br />
 
-# Python Development
+### Python Development
 <br />
 
 - **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**: A web application designed to manage and streamline tourism activities efficiently.
@@ -49,7 +49,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 <br /><br />
 
 
-# Data Related Projects
+### Data Related Projects
 <br />
 
 - **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
