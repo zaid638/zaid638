@@ -39,6 +39,19 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ## 🛠 Projects
 <br />
 
+### Data Related Projects
+<br />
+
+- **Job Analysis Project**: Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.
+<br />
+
+- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
+<br />
+
+- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.
+<br /><br />
+
+
 ### Python Development
 <br />
 
@@ -48,15 +61,6 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 - **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**: A simple online banking system created using Python Object Oriented Programming concept.
 <br /><br />
 
-
-### Data Related Projects
-<br />
-
-- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
-<br />
-
-- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.
-<br /><br />
 
 - **[Other Projets](https://github.com/zaid638?tab=repositories)**
 <br /><br />
