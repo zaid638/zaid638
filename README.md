@@ -63,8 +63,15 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ## 🌐 Connect with Me
 <br />
 
-![test](https://img.shields.io/badge/zaidahamed055-linkedin?logo=linkedin&label=linkedin&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzaidahamed055%2F)
+![LinkedIn](https://img.shields.io/badge/zaidahamed055-linkedin?logo=linkedin&label=linkedin&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzaidahamed055%2F)
 <br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidahamed055)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidahamed055)
+<br />
+
 
 :email:	[Email](mailto:zaidahamed638@gmail.com)
 <br /><br />
