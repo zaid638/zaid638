@@ -38,7 +38,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ### Data Related Projects
 <br />
 
-- **Job Analysis Project**: Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.
+- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**: Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.
 <br />
 
 - **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
