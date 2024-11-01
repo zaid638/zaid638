@@ -63,7 +63,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ## 🌐 Connect with Me
 <br />
 
-[https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin]
+![linkedin](https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin)
 <br />
 
 :email:	[Email](mailto:zaidahamed638@gmail.com)
