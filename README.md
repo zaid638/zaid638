@@ -23,7 +23,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
   
 <br /><br />
 
-##  Soft Skills 
+## :brain: Soft Skills 
 <br />
 
 * Time Management
