@@ -87,6 +87,4 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin
 
-https://img.shields.io/badge/linkedin-zaidahamed055?logo=linkedin&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzaidahamed055%2F
