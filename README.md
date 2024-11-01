@@ -63,11 +63,18 @@ I'm a Computer Engineering student with Expertise in Python and Data Enthusiast 
 ## 🌐 Connect with Me
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/zaidahamed055)
+[https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin](https://www.linkedin.com/in/zaidahamed055)
 <br />
 
-[Email](mailto:zaidahamed638@gmail.com)
+:email:	[Email](mailto:zaidahamed638@gmail.com)
 <br /><br />
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 
