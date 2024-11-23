@@ -1,7 +1,7 @@
 # 👋 Hi I'm Zaid Ahamed
 <br /><br />
 
-I'm a Computer Engineering student with Expertise in Python and Data Enggineering and Analysis who thrives to learn new things and solve problems.
+I'm a Computer Engineering student with Expertise in Python and Data Engineering and Analysis who thrives to learn new things and solve problems.
 <br /><br />
 
 ## 💻 Technical Skills
