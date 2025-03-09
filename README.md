@@ -1,3 +1,6 @@
+![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner.png)
+<br /><br />
+
 # 👋 Hi I'm Zaid Ahamed
 <br /><br />
 
