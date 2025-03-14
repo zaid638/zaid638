@@ -25,13 +25,13 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
 - **Concepts:** OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing <br /><br />
 
 <p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>  
-    <img src="https://cdn-icons-png.flaticon.com/128/10260/10260914.png" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/8787/8787811.png" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/15465/15465638.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50"/>  
+    <img src="https://cdn-icons-png.flaticon.com/128/10260/10260914.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/8787/8787811.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/15465/15465638.png" width="50" height="50"/>
 <p/>
     
 <br /><br />
