@@ -24,9 +24,9 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
 
 - **Concepts:** OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing <br /><br />
 
-<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=search&related_id=5968350" width="40" height="40"/>  
-<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=search&related_id=5968350" width="40" height="40"/>  
-  
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>  
+<img src="https://cdn-icons-png.flaticon.com/128/5968/10260914.png" width="40" height="40"/>  
+    
 <br /><br />
 
 ## :brain: Soft Skills 
