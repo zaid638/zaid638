@@ -26,6 +26,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40" height="40"/>  
 <img src="https://cdn-icons-png.flaticon.com/128/5968/10260914.png" width="40" height="40"/>  
+![image](https://github.com/user-attachments/assets/7c30853f-cd5f-46d5-a4b1-c5b212d95fff)
     
 <br /><br />
 
