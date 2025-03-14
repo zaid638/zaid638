@@ -22,7 +22,9 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
 
 - **Others:** Linux, API Development, Web Scraping, ETL/ELT
 
-- **Concepts:** OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing
+- **Concepts:** OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing <br /><br />
+
+![Python](https://github.com/zaid638/zaid638/blob/main/python.1024x1018.png) ![SQL](https://github.com/zaid638/zaid638/blob/main/python.1024x1018.png)
   
 <br /><br />
 
