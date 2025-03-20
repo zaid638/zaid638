@@ -18,7 +18,7 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
 
 - **Data:** Data Extraction, Data Cleaning, Data Analysis, Statistical Analysis, Data Visualization, Dashboard Building
 
-- **Tools:** Tableau, PowerBI, MS Office, ChatGPT, Canva
+- **Tools:** Tableau, PowerBI, MS Office, ChatGPT, Canva, Airflow
 
 - **Others:** Linux, API Development, Web Scraping, ETL/ELT
 
@@ -32,6 +32,13 @@ I'm a Computer Engineering student with Expertise in Python and Data Engineering
     <img src="https://cdn-icons-png.flaticon.com/128/8787/8787811.png" width="50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" width="50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/128/15465/15465638.png" width="50" height="50"/>
+    <img src="Skills/5367252_linux_operating system_ubuntu_icon.png" width="50" height="50"/>
+    <img src="Skills/flask.797x1024.png" width="50" height="50"/>
+    <img src="Skills/Pandas.png" width="50" height="50"/>
+    <img src="Skills/file-type-numpy.950x1024.png" width="50" height="50"/>
+    <img src="Skills/power-bi.768x1024.png" width="50" height="50"/>
+    <img src="Skills/airflow.1024x1024.png" width="50" height="50"/>
+    <img src="Skills/11401189_canva_graphic_design_icon.png" width="50" height="50"/>    
 <p/>
     
 <br /><br />
