@@ -4,25 +4,29 @@
 # 👋 Hi I'm Zaid Ahamed
 <br /><br />
 
-I'm a Computer Engineering student with Expertise in Python and Data Engineering and Analysis who thrives to learn new things and solve problems.
+I'm a Computer Engineering student with Expertise in Data Engineering and Analysis who thrives to learn new things and solve problems using modern solutions.
 <br /><br />
 
 ## 💻 Technical Skills
 <br />
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Shell
 
-- **Frameworks:** Flask, Pandas, NumPy, Matplotlib
+- Frameworks: Flask, Pandas, NumPy, Matplotlib
 
 - **Databases:** MySQL, PostgreSQL, Snowflake (DataWarehouse)
 
-- **Data:** Data Extraction, Data Cleaning, Data Analysis, Statistical Analysis, Data Visualization, Dashboard Building
+- Data: Data Extraction, Data Cleaning, Data Analysis, Statistical Analysis, Data Visualization, Dashboard Building
 
-- **Tools:** Tableau, PowerBI, MS Office, ChatGPT, Canva, Airflow
+- **Tools:** Tableau, PowerBI, MS Office, ChatGPT, Canva, Apache Airflow
 
-- **Others:** Linux, API Development, Web Scraping, ETL/ELT
+- **Others:** Linux, API Development, Web Scraping, ETL/ELT, Version Control (Git), Testing/Debbugging
 
-- **Concepts:** OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing <br /><br />
+- Concepts: OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing
+
+- Data Collection, Data Tranformation, Data Cleaning, Data Modelling, Data Ingestion, Data Visualization.
+
+- **Cloud:** AWS (S3, EC2, Lambda, IAM)<br /><br />
 
 <p align="left">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50"/>  
