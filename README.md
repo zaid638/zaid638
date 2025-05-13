@@ -42,7 +42,10 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
     <img src="Skills/file-type-numpy.950x1024.png" width="50" height="50"/>
     <img src="Skills/power-bi.768x1024.png" width="40" height="50"/>
     <img src="Skills/airflow.1024x1024.png" width="50" height="50"/>
-    <img src="Skills/11401189_canva_graphic_design_icon.png" width="50" height="50"/>    
+    <img src="Skills/11401189_canva_graphic_design_icon.png" width="50" height="50"/>  
+    <img src="Skills/1.png" width="50" height="50"/>
+    <img src="Skills/2.png" width="50" height="50"/>
+    <img src="Skills/3.png" width="50" height="50"/>  
 <p/>
     
 <br /><br />
