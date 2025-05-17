@@ -29,7 +29,7 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
 - **Cloud:** AWS (S3, EC2, Lambda, IAM)<br /><br />
 
 <p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50"/>  
+<!--     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50" height="50"/>  
     <img src="https://cdn-icons-png.flaticon.com/128/10260/10260914.png" width="50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="50" height="50"/>
@@ -42,10 +42,23 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
     <img src="Skills/file-type-numpy.950x1024.png" width="50" height="50"/>
     <img src="Skills/power-bi.768x1024.png" width="40" height="50"/>
     <img src="Skills/airflow.1024x1024.png" width="50" height="50"/>
-    <img src="Skills/11401189_canva_graphic_design_icon.png" width="50" height="50"/>  
+    <img src="Skills/11401189_canva_graphic_design_icon.png" width="50" height="50"/>   -->
     <img src="Skills/1.png" width="60" height="60"/>
     <img src="Skills/2.png" width="60" height="60"/>
     <img src="Skills/3.png" width="60" height="60"/>  
+    <img src="Skills/4.png" width="60" height="60"/>
+    <img src="Skills/5.png" width="60" height="60"/>
+    <img src="Skills/6.png" width="60" height="60"/>  
+    <img src="Skills/7.png" width="60" height="60"/>
+    <img src="Skills/8.png" width="60" height="60"/>
+    <img src="Skills/9.png" width="60" height="60"/>
+    <img src="Skills/10.png" width="60" height="60"/>
+    <img src="Skills/11.png" width="60" height="60"/>  
+    <img src="Skills/12.png" width="60" height="60"/>
+    <img src="Skills/13.png" width="60" height="60"/>
+    <img src="Skills/14.png" width="60" height="60"/>  
+    <img src="Skills/15.png" width="60" height="60"/>
+    <img src="Skills/16.png" width="60" height="60"/>
 <p/>
     
 <br /><br />
