@@ -60,22 +60,22 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
 
 ## 🛠 Projects <br />
 
-- **[Satalite Image Data Extraction Project](https://github.com/zaid638/GEE-Data-Extraction)**:
+- **[Satalite Image Data Extraction Project](https://github.com/zaid638/GEE-Data-Extraction)**:<br />
 Created ETL data pipeline to extract satellite imagery data for a Pakistan over the past year (2024) using Google Earth Engine (GEE), and process the data to calculate NDVI (Normalized Difference Vegetation Index is a metric used to measure the health and density of vegetation) and store the processed data in a PostgreSQL database for further analysis. Visualize the data in a Webapp using NDVI color scheme.<br /><br />
 
-- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**:
+- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**:<br />
 Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.<br /><br />
 
-- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**:
+- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**:<br />
 A business intelligence dashboard for a luxury hotel chain.<br /><br />
 
-- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**:
+- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**:<br />
 This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.<br /><br />
 
-- **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**:
+- **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**:<br />
 A web application designed to manage and streamline tourism activities efficiently.<br /><br />
 
-- **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**:
+- **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**:<br />
 A simple online banking system created using Python Object Oriented Programming concept.<br /><br /><br />
 
 ### [Other Projets](https://github.com/zaid638?tab=repositories)<br /><br />
