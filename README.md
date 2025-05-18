@@ -74,27 +74,15 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
 
 ## 🛠 Projects <br />
 
-<p align="center">
-    <img src="Projects/GEE_ETL_Diagram.png" width="300" height="250"/>
-    <img src="Projects/Job_Analysis_ETL_Diagram.png" width="300" height="250"/>
-    <img src="Projects/Fire_Emergency_ETL_Diagram.png" width="300" height="250"/>
-<p/>
+- **[Satalite Image Data Extraction Project](https://github.com/zaid638/GEE-Data-Extraction)**: Created ETL data pipeline to extract satellite imagery data for a Pakistan over the past year (2024) using Google Earth Engine (GEE), and process the data to calculate NDVI (Normalized Difference Vegetation Index is a metric used to measure the health and density of vegetation) and store the processed data in a PostgreSQL database for further analysis. Visualize the data in a Webapp using NDVI color scheme..<br />
 
-### Data Related Projects
-<br />
-
-- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**: Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.
-<br />
-
-- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.
-<br />
-
-- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.
-<br /><br />
+- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**: Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.<br />
 
 
-### Python Development
-<br />
+- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**: A business intelligence dashboard for a luxury hotel chain.<br />
+
+- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**: This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.<br /><br />
+
 
 - **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**: A web application designed to manage and streamline tourism activities efficiently.
 <br />
