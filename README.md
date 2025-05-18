@@ -72,8 +72,13 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
 * Problem Solving 
 <br /><br />
 
-## 🛠 Projects
-<br />
+## 🛠 Projects <br />
+
+<p align="center">
+    <img src="Projects/GEE_ETL_Diagram.png" width="500" height="500"/>
+    <img src="Projects/Job_Analysis_ETL_Diagram.png" width="500" height="500"/>
+    <img src="Projects/Fire_Emergency_ETL_Diagram.png" width="500" height="500"/>
+<p/>
 
 ### Data Related Projects
 <br />
