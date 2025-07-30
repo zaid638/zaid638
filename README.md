@@ -45,6 +45,7 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
     <img src="Skills/14.png" width="60" height="60"/>  
     <img src="Skills/15.png" width="60" height="60"/>
     <img src="Skills/16.png" width="60" height="60"/>
+    <img src="Skills/17.png" width="60" height="60"/>
 <p/>
     
 <br /><br />
