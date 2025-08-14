@@ -1,7 +1,10 @@
 ![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner.png)
 <br /><br />
 
-# 👋 Hi I'm Zaid Ahamed
+#                                                              👋 Hi I'm Zaid Ahamed
+<br /><br />
+
+## Data Engineer | Data Analyst | Passionate about delivering data-driven solutions for real-world problems | Learning new things and solve problems using modern solutions
 <br /><br />
 
 I'm a Computer Engineering student with Expertise in Data Engineering and Analysis who thrives to learn new things and solve problems using modern solutions.
