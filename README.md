@@ -1,35 +1,45 @@
-![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner.png)
+![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner%203.png)
 <br /><br />
 
-#                                                              👋 Hi I'm Zaid Ahamed
+#👋 Hi I'm Zaid Ahamed
 <br /><br />
 
 ## Data Engineer | Data Analyst | Passionate about delivering data-driven solutions for real-world problems | Learning new things and solve problems using modern solutions
 <br /><br />
 
-I'm a Computer Engineering student with Expertise in Data Engineering and Analysis who thrives to learn new things and solve problems using modern solutions.
+I am a Data Engineer and Data Analytics Expert with hands-on experience in modern data tools. I specialize in building data pipelines, designing data models, performing data cleaning and transformation, and crafting insightful dashboards that empower businesses to make data-driven decisions.
 <br /><br />
 
-## 💻 Technical Skills
+### ✅ Data Engineering Expertise <br />
+
+- Designing and implementing ETL/ELT pipelines using Python and SQL.
+- Experience with orchestration tools like Apache Airflow.
+- Building scalable data solutions using PySpark, Snowflake, PostgreSQL, and cloud services like AWS.
+<br /><br />
+
+### ✅ Analytics & Business Intelligence <br />
+
+- Proficient in creating interactive dashboards with Power BI and Excel.
+- Uncovering actionable insights to drive business growth and operational efficiency.
+- Expertise in data cleaning, transformation, and visualization.
+<br /><br />
+
+### ✅ Real-World Project Experience <br />
+
+- Developed and maintained an ETL pipeline for a Google Earth Engine data project, storing time-series data in PostgreSQL for analytics.
+- Designed an end-to-end ETL pipeline with metadata and validation for a marketing agency.
+- Built a Job Analysis Dashboard using data scraped from job boards — automated the ETL process, analyzed job trends, and visualized key metrics in Power BI.
+- Created analytics solutions for a luxury hotel chain, helping them regain market share through KPI dashboards and actionable insights.
+<br /><br />
+
+🌟 Clear and effective communication from project start to finish.
+🌟 Solutions tailored to your business challenges.
+🌟 On-time delivery and commitment to excellence.
 <br />
 
-- **Languages:** Python, SQL, Shell
+💬 Let’s connect to discuss how I can bring my expertise to your team!
+<br /><br />
 
-- Frameworks: Flask, Pandas, NumPy, Matplotlib
-
-- **Databases:** MySQL, PostgreSQL, Snowflake (DataWarehouse)
-
-- Data: Data Extraction, Data Cleaning, Data Analysis, Statistical Analysis, Data Visualization, Dashboard Building
-
-- **Tools:** Tableau, PowerBI, MS Office, ChatGPT, Canva, Apache Airflow
-
-- **Others:** Linux, API Development, Web Scraping, ETL/ELT, Version Control (Git), Testing/Debbugging
-
-- Concepts: OOP (Object Oriented Programming), DSA (Data Structures & Algorithms), DBMS (Database Management System), BigData, Data Warehousing
-
-- Data Collection, Data Tranformation, Data Cleaning, Data Modelling, Data Ingestion, Data Visualization.
-
-- **Cloud:** AWS (S3, EC2, Lambda, IAM)<br /><br />
 
 <p align="left">
     <img src="Skills/1.png" width="60" height="60"/>
@@ -51,15 +61,6 @@ I'm a Computer Engineering student with Expertise in Data Engineering and Analys
     <img src="Skills/17.png" width="60" height="60"/>
 <p/>
     
-<br /><br />
-
-## :brain: Soft Skills 
-<br />
-
-* Time Management
-* Adaptability
-* Communication
-* Problem Solving 
 <br /><br />
 
 ## 🛠 Projects <br />
