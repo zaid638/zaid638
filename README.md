@@ -1,10 +1,10 @@
 ![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner%203.png)
 <br /><br />
 
-#👋 Hi I'm Zaid Ahamed
+# 👋 Hi I'm Zaid Ahamed
 <br /><br />
 
-## Data Engineer | Data Analyst | Passionate about delivering data-driven solutions for real-world problems | Learning new things and solve problems using modern solutions
+## Passionate about delivering data-driven solutions for real-world problems | Learning new things and solve problems using modern solutions
 <br /><br />
 
 I am a Data Engineer and Data Analytics Expert with hands-on experience in modern data tools. I specialize in building data pipelines, designing data models, performing data cleaning and transformation, and crafting insightful dashboards that empower businesses to make data-driven decisions.
