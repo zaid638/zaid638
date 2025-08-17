@@ -4,7 +4,7 @@
 # 👋 Hi I'm Zaid Ahamed
 <br /><br />
 
-## Passionate About Delivering Data-Driven Solutions for Real-World Problems | Learning New Things and Solve Problems Using Modern Solutions
+## Passionate About Delivering Data-Driven Solutions for Real-World Problems | Learning New Things and Solving Problems Using Modern Data Tools
 <br /><br />
 
 I am a Data Engineer and Data Analytics Expert with hands-on experience in modern data tools. I specialize in building data pipelines, designing data models, performing data cleaning and transformation, and crafting insightful dashboards that empower businesses to make data-driven decisions.
