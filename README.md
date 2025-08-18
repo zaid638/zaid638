@@ -26,10 +26,10 @@ I am a Data Engineer and Data Analytics Expert with hands-on experience in moder
 
 ### ✅ Real-World Project Experience <br />
 
-- Developed and maintained an ETL pipeline for a Google Earth Engine data project, storing time-series data in PostgreSQL for analytics.
-- Designed an end-to-end ETL pipeline with metadata and validation for a marketing agency.
-- Built a Job Analysis Dashboard using data scraped from job boards — automated the ETL process, analyzed job trends, and visualized key metrics in Power BI.
-- Created analytics solutions for a luxury hotel chain, helping them regain market share through KPI dashboards and actionable insights.
+- Developed and maintained an ETL pipeline for a Google Earth Engine data project, storing time-series data in PostgreSQL for analytics.[more](https://github.com/zaid638/GEE-Data-Extraction)
+- Designed an end-to-end ETL pipeline with metadata and validation for a marketing agency.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
+- Built a Job Analysis Dashboard using data scraped from job boards — automated the ETL process, analyzed job trends, and visualized key metrics in Power BI.[more](https://github.com/zaid638/Job-Analysis-Project)
+- Created analytics solutions for a luxury hotel chain, helping them regain market share through KPI dashboards and actionable insights.[more](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)
 <br /><br />
 
 🌟 Clear and effective communication from project start to finish.
@@ -63,29 +63,10 @@ I am a Data Engineer and Data Analytics Expert with hands-on experience in moder
     
 <br /><br />
 
-## 🛠 Projects <br />
-
-- **[Satalite Image Data Extraction Project](https://github.com/zaid638/GEE-Data-Extraction)**:<br />
-Created ETL data pipeline to extract satellite imagery data for a Pakistan over the past year (2024) using Google Earth Engine (GEE), and process the data to calculate NDVI (Normalized Difference Vegetation Index is a metric used to measure the health and density of vegetation) and store the processed data in a PostgreSQL database for further analysis. Visualize the data in a Webapp using NDVI color scheme.<br /><br />
-
-- **[Job Analysis Project](https://github.com/zaid638/Job-Analysis-Project)**:<br />
-Analyze job postings to identify trends and insights in job requirements to help job seekers and recruiters understand the current job market.<br /><br />
-
-- **[AtliQ Grands Hotel Dashboard](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)**:<br />
-A business intelligence dashboard for a luxury hotel chain.<br /><br />
-
-- **[Technology Trends Analysis](https://github.com/zaid638/IBM-Capstone-Project)**:<br />
-This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset.<br /><br />
-
-- **[Tourism Management System](https://github.com/zaid638/Tourism-Management-System)**:<br />
-A web application designed to manage and streamline tourism activities efficiently.<br /><br />
-
-- **[Online Banking System](https://github.com/zaid638/Online-Banking-System)**:<br />
-A simple online banking system created using Python Object Oriented Programming concept.<br /><br /><br />
-
-### [Other Projets](https://github.com/zaid638?tab=repositories)<br /><br />
 
 ## 🌐 Connect with Me<br />
+
+[![Portfolio](https://img.shields.io/badge/portfolio-1A3355)](https://zaid-ahamed.streamlit.app/)<br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin)](https://www.linkedin.com/in/zaidahamed055)<br />
 
