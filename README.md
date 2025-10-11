@@ -27,7 +27,7 @@ I am a Data Engineer and Data Analytics Expert with hands-on experience in moder
 ### ✅ Real-World Project Experience <br />
 
 - Developed and maintained an ETL pipeline for a Google Earth Engine data project, storing time-series data in PostgreSQL for analytics.[more](https://github.com/zaid638/GEE-Data-Extraction)
-- Built a Data Warehouse for **CRM/ERP** data. To analyze the data, generate actionable insights, and use machine learning models.[more](https://github.com/zaid638/sql-data-warehouse-project)
+- Built a Data Warehouse for **CRM/ERP** data. To analyze the data, generate actionable insights, and use the data to train machine learning models.[more](https://github.com/zaid638/sql-data-warehouse-project)
 - Designed an end-to-end ETL pipeline with metadata and validation for a marketing agency.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
 - Built a Job Analysis Dashboard using data scraped from job boards — automated the ETL process, analyzed job trends, and visualized key metrics in Power BI.[more](https://github.com/zaid638/Job-Analysis-Project)
 - Created analytics solutions for a luxury hotel chain, helping them regain market share through KPI dashboards and actionable insights.[more](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)
