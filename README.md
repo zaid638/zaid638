@@ -1,46 +1,12 @@
-![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner%204.png)
-<br /><br />
+![Banner](https://github.com/zaid638/zaid638/blob/main/My%20LinkedIn%20Banner%204.png)<br /><br />
 
-# 👋 Hi I'm Zaid Ahamed
-<br /><br />
+# 👋 Hi I'm Zaid Ahamed<br /><br />
 
-## Passionate About Delivering Data-Driven Solutions for Real-World Problems | Learning New Things and Solving Problems Using Modern Data Tools
-<br /><br />
+## Data Engineer | Data Analytics | Building Scalable, Data-Driven Systems<br /><br />
 
-I am a Data Engineer and Data Analytics Expert with hands-on experience in modern data tools. I specialize in building data pipelines, designing data models, performing data cleaning and transformation, and crafting insightful dashboards that empower businesses to make data-driven decisions.
-<br /><br />
+I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, automating data flows, and designing analytical systems that transform raw data into insight.<br /><br />
 
-### ✅ Data Engineering Expertise <br />
-
-- Designing and implementing ETL/ELT pipelines using Python and SQL.
-- Experience with orchestration tools like Apache Airflow.
-- Building scalable data solutions using PySpark, Snowflake, PostgreSQL, and cloud services like AWS.
-<br /><br />
-
-### ✅ Analytics & Business Intelligence <br />
-
-- Proficient in creating interactive dashboards with Power BI and Excel.
-- Uncovering actionable insights to drive business growth and operational efficiency.
-- Expertise in data cleaning, transformation, and visualization.
-<br /><br />
-
-### ✅ Real-World Project Experience <br />
-
-- Developed and maintained an ETL pipeline for a Google Earth Engine data project, storing time-series data in PostgreSQL for analytics.[more](https://github.com/zaid638/GEE-Data-Extraction)
-- Built a Data Warehouse for **CRM/ERP** data. To analyze the data, generate actionable insights, and use the data to train machine learning models.[more](https://github.com/zaid638/sql-data-warehouse-project)
-- Designed an end-to-end ETL pipeline with metadata and validation for a marketing agency.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
-- Built a Job Analysis Dashboard using data scraped from job boards — automated the ETL process, analyzed job trends, and visualized key metrics in Power BI.[more](https://github.com/zaid638/Job-Analysis-Project)
-- Created analytics solutions for a luxury hotel chain, helping them regain market share through KPI dashboards and actionable insights.[more](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)
-<br /><br />
-
-🌟 Clear and effective communication from project start to finish.
-🌟 Solutions tailored to your business challenges.
-🌟 On-time delivery and commitment to excellence.
-<br />
-
-💬 Let’s connect to discuss how I can bring my expertise to your team!
-<br /><br />
-
+### ⚙️ Tech Stack <br />
 
 <p align="left">
     <img src="Skills/1.png" width="60" height="60"/>
@@ -64,6 +30,21 @@ I am a Data Engineer and Data Analytics Expert with hands-on experience in moder
     
 <br /><br />
 
+### ✅ Real-World Project Experience<br />
+
+- **NDVI ETL Pipeline:** Extracted vegetation index data from Google Earth Engine → transformed and stored in PostgreSQL.[more](https://github.com/zaid638/GEE-Data-Extraction)
+- **CRM/ERP Data Warehouse:** Centralized multi-source business data for analytics and ML.[more](https://github.com/zaid638/sql-data-warehouse-project)
+- **Job Analytics System:** Automated job data scraping and built Power BI dashboards to analyze skills, roles, and salary trends.[more](https://github.com/zaid638/Job-Analysis-Project)
+- **Marketing Data ETL:** Data pipeline with validation, logging, and performance optimization.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
+- **AtliQ Grands Dashboard:** Data cleaning, transformation, and KPI visualization for hospitality analytics.[more](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)<br /><br />
+
+### 📚 Currently Exploring<br />
+
+- Cloud Data Engineering (AWS, Snowflake)
+- DataOps & Workflow Orchestration (Automation, Scheduling)
+- LLM-powered Automation in Data Pipelines<br />
+
+💬 Let’s collaborate! Check out my repositories or connect on LinkedIn. <br /><br />
 
 ## 🌐 Connect with Me<br />
 
