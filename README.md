@@ -6,7 +6,9 @@
 
 I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, automating data flows, and designing analytical systems that transform raw data into insight.<br /><br />
 
-### ⚙️ Tech Stack <br />
+---
+
+### ⚙️ Tech Stack <br /><br />
 
 <p align="left">
     <img src="Skills/1.png" width="60" height="60"/>
@@ -30,6 +32,8 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
     
 <br /><br />
 
+---
+
 ### ✅ Real-World Project Experience<br />
 
 - **NDVI ETL Pipeline:** Extracted vegetation index data from Google Earth Engine → transformed and stored in PostgreSQL.[more](https://github.com/zaid638/GEE-Data-Extraction)
@@ -37,6 +41,8 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
 - **Job Analytics System:** Automated job data scraping and built Power BI dashboards to analyze skills, roles, and salary trends.[more](https://github.com/zaid638/Job-Analysis-Project)
 - **Marketing Data ETL:** Data pipeline with validation, logging, and performance optimization.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
 - **AtliQ Grands Dashboard:** Data cleaning, transformation, and KPI visualization for hospitality analytics.[more](https://github.com/zaid638/Analysis-of-AtliQ-Grands-Hospitality-Domain)<br /><br />
+
+---
 
 ### 📚 Currently Exploring<br />
 
@@ -53,8 +59,6 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
 [![LinkedIn](https://img.shields.io/badge/linkedin-zaidahamed055-blue?badge&logo=linkedin)](https://www.linkedin.com/in/zaidahamed055)<br />
 
 [![Email](https://img.shields.io/badge/zaidahamed638%40gmail.com-mail?logo=gmail&label=mail&labelColor=grey&color=red)](mailto:zaidahamed638@gmail.com)<br /><br />
-
-
 
 
 
