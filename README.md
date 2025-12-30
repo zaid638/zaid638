@@ -28,6 +28,8 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
     <img src="Skills/15.png" width="60" height="60"/>
     <img src="Skills/16.png" width="60" height="60"/>
     <img src="Skills/17.png" width="60" height="60"/>
+    <img src="Skills/18.png" width="60" height="60"/>
+    <img src="Skills/19.png" width="60" height="60"/>
 <p/>
     
 <br /><br />
