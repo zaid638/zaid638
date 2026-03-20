@@ -11,26 +11,27 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
 ### ⚙️ Tech Stack <br /><br />
 
 <p align="left">
-    <img src="Skills/1.png" width="60" height="60"/>
-    <img src="Skills/2.png" width="60" height="60"/>
-    <img src="Skills/3.png" width="60" height="60"/>  
-    <img src="Skills/4.png" width="60" height="60"/>
-    <img src="Skills/5.png" width="60" height="60"/>
-    <img src="Skills/6.png" width="60" height="60"/>  
-    <img src="Skills/7.png" width="60" height="60"/>
-    <img src="Skills/8.png" width="60" height="60"/>
-    <img src="Skills/9.png" width="60" height="60"/>
-    <img src="Skills/10.png" width="60" height="60"/>
-    <img src="Skills/11.png" width="60" height="60"/>  
-    <img src="Skills/12.png" width="60" height="60"/>
-    <img src="Skills/13.png" width="60" height="60"/>
-    <img src="Skills/14.png" width="60" height="60"/>  
-    <img src="Skills/15.png" width="60" height="60"/>
-    <img src="Skills/16.png" width="60" height="60"/>
-    <img src="Skills/17.png" width="60" height="60"/>
-    <img src="Skills/18.png" width="60" height="60"/>
-    <img src="Skills/19.png" width="60" height="60"/>
-    <img src="Skills/20.png" width="60" height="60"/>
+    <img src="Skills/1.png" title="Python" width="60" height="60"/>
+    <img src="Skills/2.png" title="SQL" width="60" height="60"/>
+    <img src="Skills/3.png" title="PostgreSQL" width="60" height="60"/>  
+    <img src="Skills/4.png" title="MySQL" width="60" height="60"/>
+    <img src="Skills/21.png" title="Sql Server" width="60" height="60"/>
+    <!-- <img src="Skills/5.png" title="Snowflake" width="60" height="60"/> -->
+    <!-- <img src="Skills/6.png" title="Pandas" width="60" height="60"/>   -->
+    <!-- <img src="Skills/7.png" title="Numpy" width="60" height="60"/> -->
+    <img src="Skills/8.png" title="Flask" width="60" height="60"/>
+    <img src="Skills/9.png" title="Excel" width="60" height="60"/>
+    <img src="Skills/10.png" title="PowerBI" width="60" height="60"/>
+    <img src="Skills/11.png" title="Linux" width="60" height="60"/>  
+    <img src="Skills/12.png" title="Airflow" width="60" height="60"/>
+    <img src="Skills/13.png" title="Streamlit" width="60" height="60"/>
+    <img src="Skills/14.png" title="Canva" width="60" height="60"/>  
+    <!-- <img src="Skills/15.png" title="Google Earth Engine" width="60" height="60"/> -->
+    <img src="Skills/16.png" title="AWS" width="60" height="60"/>
+    <img src="Skills/17.png" title="PySpark" width="60" height="60"/>
+    <img src="Skills/18.png" title="GCP" width="60" height="60"/>
+    <img src="Skills/19.png" title="BigQuery" width="60" height="60"/>
+    <img src="Skills/20.png" title="Databricks" width="60" height="60"/>
 <p/>
     
 <br /><br />
