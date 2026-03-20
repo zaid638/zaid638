@@ -30,6 +30,7 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
     <img src="Skills/17.png" width="60" height="60"/>
     <img src="Skills/18.png" width="60" height="60"/>
     <img src="Skills/19.png" width="60" height="60"/>
+    <img src="Skills/20.png" width="60" height="60"/>
 <p/>
     
 <br /><br />
@@ -39,6 +40,7 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
 ### ✅ Real-World Project Experience<br />
 
 - **NDVI ETL Pipeline:** Extracted vegetation index data from Google Earth Engine → transformed and stored in PostgreSQL.[more](https://github.com/zaid638/GEE-Data-Extraction)
+- **FMCG End-to-End Lakehouse Pipeline:** build a scalable data pipeline to consolidate, transform, and analyze data from both Parent and Child organizations using a Lakehouse architecture.[more](https://github.com/zaid638/FMCG-End-to-End-Lakehouse-Pipeline)
 - **CRM/ERP Data Warehouse:** Centralized multi-source business data for analytics and ML.[more](https://github.com/zaid638/sql-data-warehouse-project)
 - **Job Analytics System:** Automated job data scraping and built Power BI dashboards to analyze skills, roles, and salary trends.[more](https://github.com/zaid638/Job-Analysis-Project)
 - **Marketing Data ETL:** Data pipeline with validation, logging, and performance optimization.[more](https://github.com/zaid638/Marketing-ETL-Pipeline)
