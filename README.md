@@ -48,9 +48,9 @@ I’m a Data Engineer and Data Analytics who enjoys building robust pipelines, a
 
 ---
 
-### 📚 Currently Exploring<br />
+### 📚 Currently Working on<br />
 
-- Cloud Data Engineering (AWS, Snowflake)
+- Cloud Data Engineering (GCP)
 - DataOps & Workflow Orchestration (Automation, Scheduling)
 - LLM-powered Automation in Data Pipelines<br />
 
