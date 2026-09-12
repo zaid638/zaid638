@@ -32,6 +32,10 @@ I design and build data pipelines that move raw, messy data into clean, analysis
     <img src="Skills/12.png" title="Airflow" width="55" height="55"/>
     <img src="Skills/10.png" title="Power BI" width="55" height="55"/>
     <img src="Skills/9.png" title="Excel" width="55" height="55"/>
+</p>
+
+**Others**
+<p align="left">
     <img src="Skills/11.png" title="Linux" width="55" height="55"/>
 </p>
 
