@@ -25,17 +25,18 @@ I design and build data pipelines that move raw, messy data into clean, analysis
     <img src="Skills/19.png" title="BigQuery" width="55" height="55"/>
     <img src="Skills/20.png" title="Databricks" width="55" height="55"/>
     <img src="Skills/17.png" title="PySpark" width="55" height="55"/>
+    <img src="Skills/12.png" title="Airflow" width="55" height="55"/>
 </p>
 
-**Orchestration & BI**
+<!--**Orchestration & BI**
 <p align="left">
-    <img src="Skills/12.png" title="Airflow" width="55" height="55"/>
-    <img src="Skills/10.png" title="Power BI" width="55" height="55"/>
-    <img src="Skills/9.png" title="Excel" width="55" height="55"/>
-</p>
+</p>-->
+
 
 **Others**
 <p align="left">
+    <img src="Skills/10.png" title="Power BI" width="55" height="55"/>
+    <img src="Skills/9.png" title="Excel" width="55" height="55"/>    
     <img src="Skills/11.png" title="Linux" width="55" height="55"/>
 </p>
 
@@ -44,6 +45,12 @@ I design and build data pipelines that move raw, messy data into clean, analysis
 ---
 
 ## 🚀 Featured Projects
+
+**[Google Drive → BigQuery Serverless ETL Pipeline](https://github.com/zaid638/Google-Drive-BigQuery-Serverless-ETL-Pipeline)**
+A data pipeline that ingests Google Sheets from a Drive folder, lands them in BigQuery as standardized bronze tables, and merges them into a unified, cleaned silver table that is fully automated on GCP.
+
+**[Data Pipeline Migration: VM Cron Job → GCP Cloud Function](https://github.com/zaid638/Data-Pipeline-Migration-VM-Cron-Job-GCP-Cloud-Function)**
+Migrated a daily healthcare-data ingestion pipeline from a VM to a serverless Cloud Function, adding proper failure alerting, and eliminating a class of concurrency bugs along the way.
 
 **[FMCG End-to-End Lakehouse Pipeline](https://github.com/zaid638/FMCG-End-to-End-Lakehouse-Pipeline)**
 Built a Lakehouse platform simulating a company acquisition, consolidating parent and subsidiary datasets across Bronze/Silver/Gold layers using AWS S3, Databricks, and Apache Spark.
